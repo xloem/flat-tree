@@ -3,6 +3,7 @@
 
 #include <vector>
 #include <memory>
+#include <stdexcept>
 
 namespace Hyper {
   namespace Core {
